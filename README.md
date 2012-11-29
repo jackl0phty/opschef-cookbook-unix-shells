@@ -1,3 +1,6 @@
+Travis-ci status: [![Build Status](https://secure.travis-ci.org/jackl0phty/opschef-cookbook-unix-shells.png?branch=master)](http://travis-ci.org/jackl0phty/opschef-cookbook-unix-shells)
+
+
 Description
 ===========
 
