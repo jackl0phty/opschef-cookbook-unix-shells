@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-gem 'rake'
-gem 'foodcritic'
+gem "rake"
+gem "foodcritic", ">= 1.7.0"
