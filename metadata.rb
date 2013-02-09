@@ -1,4 +1,4 @@
-name		 "unix-shells"
+name		 "unix_shells"
 maintainer       "Gerald L. Hevener Jr., M.S."
 maintainer_email "jackl0phty@gmail.com"
 license          "Apache 2.0"
