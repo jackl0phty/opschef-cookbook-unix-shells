@@ -2,6 +2,10 @@
 
 This file is used to list changes made in each version of unix_shells.
 
+## 0.2.4:
+
+* Initial integration with test-kitchen
+
 ## 0.1.0:
 
 * Initial release of unix_shells
